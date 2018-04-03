@@ -1,0 +1,14 @@
+{
+    "name": "expressjs",
+    "version": "1.0.0",
+    "description": "Files ",
+    "main": "app/app.js",
+    "scripts": {
+        "start": "node app/app.js"
+    },
+    "author": "Alan Doyle",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.16.3"
+    }
+}
